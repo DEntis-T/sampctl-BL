@@ -1,0 +1,1 @@
+call commands\sampctl_help
